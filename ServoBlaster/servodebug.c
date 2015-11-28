@@ -3,7 +3,7 @@
  *
  * This code should be compiled with the command:
  *
- *   gcc -Wall -O2 -o servodebug servodebug.c
+ *   gcc -Wall -o2 -o servodebug servodebug.c
  *
  * It should be run with the command:
  *
